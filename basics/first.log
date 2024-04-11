@@ -1,0 +1,151 @@
+Script started on 2024-04-11 12:18:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="112" LINES="15"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ cat inder.log
+[?2004lcat: inder.log: No such file or directory
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ [7mscript -f python_session.log[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript -f python_session.log
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.log[1P.logi.logn.logd.loge.logr.log[C[C[C[C
+[?2004lScript started, output log file is 'inder.log'.
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 20+20
+40
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+Script done.
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ cat inder.log
+[?2004lScript started on 2024-04-11 12:21:17+05:30 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="112" LINES="15"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 20+20
+40
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-11 12:21:50+05:30 [COMMAND_EXIT_CODE="0"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ open inder.log
+[?2004l/snap/core20/current/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /lib/x86_64-linux-gnu/libproxy.so.1)
+Failed to load module: /home/inderjeet/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ QSocketNotifier: Can only be used with threads started with QThread
+ktelnetservice5: symbol lookup error: /snap/core20/current/lib/x86_64-linux-gnu/libpthread.so.0: undefined symbol: __libc_pthread_init, version GLIBC_PRIVATE
+jfghchjsd
+[?2004ljfghchjsd: command not found
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ convert inder.log to txt
+[?2004lCommand 'convert' not found, but can be installed with:
+sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.38-1ubuntu0.1, or
+sudo apt install imagemagick-6.q16                  # version 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3
+sudo apt install imagemagick-6.q16hdri              # version 8:6.9.11.60+dfsg-1.3ubuntu0.22.04.3
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ [7mmv inder.log inder.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv inder.log inder.txt
+[A
+[?2004l[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ open inder.txt
+[?2004l/snap/core20/current/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /lib/x86_64-linux-gnu/libproxy.so.1)
+Failed to load module: /home/inderjeet/snap/code/common/.cache/gio-modules/libgiolibproxy.so
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ [7mls *.log[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls *.log
+[A
+[?2004lfirst.log  python_inder.log
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ script -f data_types.log
+[?2004lScript started, output log file is 'data_types.log'.
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> username="chaiaurcode"
+>>> len(userb[Kname)
+11
+>>> [K>>> [K>>> usernsa,[K[K[Kame[0]
+'c'
+>>> username[0]='i'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'str' object does not support item assignment
+>>> username[-1]
+'e'
+>>> username[1:5]
+'haia'
+>>> dir(username)
+['__add__', '__class__', '__contains__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getnewargs__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mod__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__rmod__', '__rmul__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
+>>> mylist=[123,"inder",3.14]
+>>> mylist
+[123, 'inder', 3.14]
+>>> len(mylist)
+3
+>>> mylist[0]
+123
+>>> dir(mylist)
+['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+>>> myD={[K[Kictionary={'one':lemon[K[K[K[K[K[K:'lemon','[K se[K[K'sec;'[K[K':'ginger' , 'third':      [K;'[K[K'mamu'}
+>>> myd[KDictionary
+{'one': 'lemon', 'sec': 'ginger', 'third': 'mamu'}
+>>> myDictionary['one']
+'lemon'
+>>> myDictionary[K[K[K[K[K[K[K[K[K[K[K[Kdir9[K(myDictionary)
+['__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__ior__', '__iter__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__or__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__ror__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values']
+>>> myTuples=(1,2,3,4)
+>>> myt[KTuples[0]
+1
+>>> len(myTuples)
+4
+>>> dir(myTuples)
+['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getnewargs__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__rmul__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 'count', 'index']
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+Script done.
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ cat data_types.log
+[?2004lScript started on 2024-04-11 12:39:51+05:30 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="112" LINES="15"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> username="chaiaurcode"
+>>> len(userb[Kname)
+11
+>>> [K>>> [K>>> usernsa,[K[K[Kame[0]
+'c'
+>>> username[0]='i'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'str' object does not support item assignment
+>>> username[-1]
+'e'
+>>> username[1:5]
+'haia'
+>>> dir(username)
+['__add__', '__class__', '__contains__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getnewargs__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mod__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__rmod__', '__rmul__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
+>>> mylist=[123,"inder",3.14]
+>>> mylist
+[123, 'inder', 3.14]
+>>> len(mylist)
+3
+>>> mylist[0]
+123
+>>> dir(mylist)
+['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+>>> myD={[K[Kictionary={'one':lemon[K[K[K[K[K[K:'lemon','[K se[K[K'sec;'[K[K':'ginger' , 'third':      [K;'[K[K'mamu'}
+>>> myd[KDictionary
+{'one': 'lemon', 'sec': 'ginger', 'third': 'mamu'}
+>>> myDictionary['one']
+'lemon'
+>>> myDictionary[K[K[K[K[K[K[K[K[K[K[K[Kdir9[K(myDictionary)
+['__class__', '__class_getitem__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__ior__', '__iter__', '__le__', '__len__', '__lt__', '__ne__', '__new__', '__or__', '__reduce__', '__reduce_ex__', '__repr__', '__reversed__', '__ror__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__', 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values']
+>>> myTuples=(1,2,3,4)
+>>> myt[KTuples[0]
+1
+>>> len(myTuples)
+4
+>>> dir(myTuples)
+['__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getnewargs__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__rmul__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 'count', 'index']
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-11 12:57:46+05:30 [COMMAND_EXIT_CODE="0"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-11 12:58:32+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,16 @@
+Script started on 2024-04-11 12:15:09+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="112" LINES="15"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print(inder"0[K)
+  File "<stdin>", line 1
+    print(inder")
+               ^
+SyntaxError: unterminated string literal (detected at line 1)
+>>> print("inderinder")'[K[K[K[K[K[K[K[K[K("inder")
+inder
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-11 12:15:50+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,1000 @@
+  826  code script.js
+  827  code style.css
+  828  git status
+  829  clear
+  830  cd 38
+  831  git push
+  832  clear
+  833  cd ..
+  834  cd 39
+  835  git push
+  836  clear
+  837  cd ..
+  838  mkdir 45
+  839  cd 45
+  840  code index.html
+  841  code style.css
+  842  code script.js
+  843  git add .
+  844  git commit -m"all about transition properties"
+  845  git push
+  846  clear
+  847  cd ..
+  848  mkdir 46
+  849  cd 46
+  850  clear
+  851  code index.html
+  852  code script.js
+  853  code style.css
+  854  git add .
+  855  git commit -m"this is animations"
+  856  git push
+  857  clear
+  858  cd ..
+  859  mkdir 49
+  860  cd 49
+  861  cleaer
+  862  clear
+  863  code index.html
+  864  code script.js
+  865  code style.css
+  866  git add .
+  867  git commit -m"object fit and position"
+  868  git push
+  869  clear
+  870  cd ..
+  871  clear
+  872  mkdir 50
+  873  cd 50
+  874  code index.html
+  875  code style.css
+  876  code script.js
+  877  cd ..
+  878  css
+  879  cd css
+  880  clear
+  881  mkdir project
+  882  cd project
+  883  mkdir clone of netflix
+  884  cd clone of netflix
+  885  rm clone of netflix
+  886  rm clone
+  887  rmd clone
+  888  clear
+  889  mkdir clone_of_netflix
+  890  cd clone_of_netflix
+  891  mkdir assets
+  892  cd assets
+  893  mkdir img
+  894  mkdir video
+  895  exit
+  896  sudo apt update
+  897  clear
+  898  sudo apt install node.js
+  899  sudo apt install nodejs
+  900  node -v
+  901  npm -v
+  902  sudo apt npm
+  903  sudo apt install npm
+  904  node --version
+  905  clear
+  906  nodejs
+  907  clear
+  908  node "/home/inderjeet/web_development/java_script/script.js"
+  909  clear
+  910  node "/home/inderjeet/web_development/java_script/script.js"
+  911  node script.js
+  912  clear
+  913  cd ..
+  914  ls
+  915  cd java_script
+  916  node script.js
+  917  code new.js
+  918  node "/home/inderjeet/web_development/java_script/new.js"
+  919  clear
+  920  not new.js
+  921  clear
+  922  node new.js
+  923  npm
+  924  npm --version
+  925  sudo apt update npm
+  926  sudo apt upgrade npm
+  927  clear
+  928  git add .
+  929  git
+  930  clear
+  931  git status
+  932  clear
+  933  git init
+  934  git remote add origin <https://github.com/inderjeetsingh1472/web-.git>
+  935  git remote add origin [200~https://github.com/inderjeetsingh1472/web-.git~
+  936  clear
+  937  git add .
+  938  git branch
+  939  git commit -m"this is java script"
+  940  git push origin main
+  941  clear
+  942  git push
+  943  git branch -M main
+  944  git push origin main
+  945  git push
+  946  git push --set-upstream origin main
+  947  clear
+  948  git status
+  949  git add .
+  950  git branch -M master
+  951  git branch
+  952  git push origin master
+  953  git push origin main
+  954  rm git
+  955  clear
+  956  git remote add origin
+  957  clear
+  958  git remote add origin [200~git@github.com:inderjeetsingh1472/web-.git~
+  959  git push origin main
+  960  git branch
+  961  clear
+  962  git remote -v
+  963  git brsanch
+  964  git branch
+  965  git push origin master
+  966  git branch -M main
+  967  git push origin main
+  968  clear
+  969  ls -a
+  970  git remote add origin https://github.com/inderjeetsingh1472/localrepo.git
+  971  git remote -v
+  972  git remote remove origin
+  973  git remote add origin https://github.com/inderjeetsingh1472/localrepo.git
+  974  git remote -v
+  975  clear
+  976  git branch
+  977  git branch -M js
+  978  git brach
+  979  git branch
+  980  clear
+  981  git push origin js
+  982  clear
+  983  mkdir 55
+  984  cd 55
+  985  index.html
+  986  code index.html
+  987  code script.js
+  988  cd ..
+  989  mkdir java_script
+  990  cd java_script
+  991  code index.html
+  992  code script.js
+  993  cd 13
+  994  git commit -m"&lt,&at"
+  995  git push
+  996  git branch
+  997  git branch -M main
+  998  clear
+  999  git add .
+ 1000  git branch
+ 1001  git branch -M master
+ 1002  git branch
+ 1003  git commit -master"&lt;&at;"
+ 1004  git add .
+ 1005  git commit -master"&lt;&at;"
+ 1006  clear
+ 1007  git status
+ 1008  git add 13
+ 1009  clear
+ 1010  git add .
+ 1011  git status
+ 1012  git add /1/index.html
+ 1013  git add 1/index.html
+ 1014  git add index.html
+ 1015  git status
+ 1016  cd ..
+ 1017  git add .
+ 1018  git status
+ 1019  git commit -master
+ 1020  git push
+ 1021  git push --set-upstream origin master
+ 1022  cd 13
+ 1023  gir add .
+ 1024  git add .
+ 1025  git commit
+ 1026  clear
+ 1027  cd
+ 1028  claeer
+ 1029  clrear
+ 1030  clear
+ 1031  cd html
+ 1032  cd web_development
+ 1033  cd html
+ 1034  cd 13
+ 1035  code index.html
+ 1036  clear
+ 1037  cd 
+ 1038  clear
+ 1039  sudo apt upgrade code
+ 1040  code
+ 1041  gnome-screenshot
+ 1042  sudo apt install gnome-screenshot
+ 1043  gnome-screenshot
+ 1044  gnome-screenshot -a
+ 1045  gnome screen-shot -a
+ 1046  gnome-screenshot -a
+ 1047  cd ..
+ 1048  ls
+ 1049  cd java_script
+ 1050  ls
+ 1051  cd 55
+ 1052  ls-a
+ 1053  ls -a
+ 1054  code index.html
+ 1055  code script.js
+ 1056  node
+ 1057  node "/home/inderjeet/web_development/java_script/55/script.js"
+ 1058  clear
+ 1059  cd..
+ 1060  cd ..
+ 1061  cd java_script
+ 1062  cd 56
+ 1063  mkdir 56
+ 1064  cd 56
+ 1065  code index.html
+ 1066  code script.js
+ 1067  echo hello
+ 1068  echo script.js
+ 1069  echo
+ 1070  node "/home/inderjeet/web_development/java_script/56/script.js"
+ 1071  ./script.js
+ 1072  clear
+ 1073  node "/home/inderjeet/web_development/java_script/56/script.js"
+ 1074  git add .
+ 1075  git commit -m"if-else"
+ 1076  git push
+ 1077  clear
+ 1078  cd ..
+ 1079  mkdir 57
+ 1080  cd 57
+ 1081  code script.js
+ 1082  node "/home/inderjeet/web_development/java_script/57/script.js"
+ 1083  code index.html
+ 1084  cd ..
+ 1085  cd 55
+ 1086  ls
+ 1087  cd java_script
+ 1088  ls
+ 1089  cd 55
+ 1090  code index.html
+ 1091  code script.js
+ 1092  git add .
+ 1093  git commit -js"basic"
+ 1094  git commit -m"basic"
+ 1095  git push
+ 1096  git push --set-upstream origin js
+ 1097  clear
+ 1098  gedit
+ 1099  node "/home/inderjeet/web_development/java_script/54/script.js"
+ 1100  add .
+ 1101  clrear
+ 1102  clear
+ 1103  git add .
+ 1104  git commit -m
+ 1105  git commit
+ 1106  clear
+ 1107  cd 54
+ 1108  git ad .
+ 1109  git add .
+ 1110  git commit -m"basic"
+ 1111  clear
+ 1112  node "/home/inderjeet/web_development/java_script/57/script.js"
+ 1113  clear
+ 1114  node "/home/inderjeet/web_development/java_script/57/script.js"
+ 1115  clear
+ 1116  ./script.js
+ 1117  clear
+ 1118  cd 57
+ 1119  node "/home/inderjeet/web_development/java_script/57/script.js"
+ 1120  clear
+ 1121  node "/home/inderjeet/web_development/java_script/57/script.js"
+ 1122  clear
+ 1123  nmcli device wifi connect SSID password PASSWORD
+ 1124  nmcli connection show
+ 1125  nm-connection-editor
+ 1126  nmtui
+ 1127  sudo apt-get install aircrack-ng
+ 1128  sudo apt-get install reaver
+ 1129  sudo apt airmon-ng
+ 1130  sudo airmon-ng
+ 1131  sudo airmon-ng start wlxa047d7802ef4
+ 1132  sudo airodump-ng mono
+ 1133  sudo airodump-ng mon0
+ 1134  node "/home/inderjeet/web_development/java_script/60/script.js"
+ 1135  git add .
+ 1136  git commit -m"string"
+ 1137  git push
+ 1138  clear
+ 1139  mkdir 63
+ 1140  cd 23
+ 1141  cd 63
+ 1142  code script.js
+ 1143  cleaf
+ 1144  clar
+ 1145  clear
+ 1146  node "/home/inderjeet/web_development/java_script/63/script.js"
+ 1147  index.html
+ 1148  code index.html
+ 1149  node "/home/inderjeet/web_development/java_script/63/script.js"
+ 1150  clear
+ 1151  code loops.js
+ 1152  clear
+ 1153  node "/home/inderjeet/web_development/java_script/63/loops.js"
+ 1154  code mfr.js
+ 1155  node "/home/inderjeet/web_development/java_script/63/mfr.js"
+ 1156  clear
+ 1157  cd
+ 1158  cd all_about_c++
+ 1159  ls
+ 1160  git add .
+ 1161  ls
+ 1162  cd oops
+ 1163  ls
+ 1164  destructor.cpp
+ 1165  code destructor.cpp
+ 1166  ls
+ 1167  code constructor.cpp
+ 1168  cd "/home/inderjeet/all_about_c++/oops/" && g++ destructor.cpp -o destructor && "/home/inderjeet/all_about_c++/oops/"destructor
+ 1169  code encapsulation.cpp
+ 1170  sudo apt install kdenlive
+ 1171  sudo apt-get install grep sed awk
+ 1172  sudo apt-get update
+ 1173  sudo apt-get install build-essential
+ 1174  sudo snap install --classic code
+ 1175  sudo apt-get upgrade
+ 1176  sudo apt-get dist-upgrade
+ 1177  sudo apt-get update
+ 1178  sudo apt-get autoremove
+ 1179  exit
+ 1180  cd "/home/inderjeet/all_about_c++/oops/" && g++ inheritance.cpp -o inheritance && "/home/inderjeet/all_about_c++/oops/"inheritance
+ 1181  code single_inheritance.cpp
+ 1182  cd "/home/inderjeet/all_about_c++/oops/" && g++ single_inheritance.cpp -o single_inheritance && "/home/inderjeet/all_about_c++/oops/"single_inheritance
+ 1183  multi_level_inheritance.cpp
+ 1184  code multi_level_inhertance.cpp
+ 1185  cd "/home/inderjeet/all_about_c++/oops/" && g++ multi_level_inhertance.cpp -o multi_level_inhertance && "/home/inderjeet/all_about_c++/oops/"multi_level_inhertance
+ 1186  code multiple_inheritance.cpp
+ 1187  cd "/home/inderjeet/all_about_c++/oops/" && g++ multiple_inheritance.cpp -o multiple_inheritance && "/home/inderjeet/all_about_c++/oops/"multiple_inheritance
+ 1188  code hierarchical_inheritance.cpp
+ 1189  cd "/home/inderjeet/all_about_c++/oops/" && g++ hierarchical_inheritance.cpp -o hierarchical_inheritance && "/home/inderjeet/all_about_c++/oops/"hierarchical_inheritance
+ 1190  code hybrid_inhertance.cpp
+ 1191  code diamond_problem.cpp
+ 1192  cd "/home/inderjeet/all_about_c++/oops/" && g++ diamond_problem.cpp -o diamond_problem && "/home/inderjeet/all_about_c++/oops/"diamond_problem
+ 1193  cleare
+ 1194  clear
+ 1195  cd "/home/inderjeet/all_about_c++/oops/" && g++ diamond_problem.cpp -o diamond_problem && "/home/inderjeet/all_about_c++/oops/"diamond_problem
+ 1196  code polymorphism.cpp
+ 1197  cd "/home/inderjeet/all_about_c++/oops/" && g++ polymorphism.cpp -o polymorphism && "/home/inderjeet/all_about_c++/oops/"polymorphism
+ 1198  code runtime_polymorphism.cpp
+ 1199  cd "/home/inderjeet/all_about_c++/oops/" && g++ runtime_polymorphism.cpp -o runtime_polymorphism && "/home/inderjeet/all_about_c++/oops/"runtime_polymorphism
+ 1200  code friend_function.cpp
+ 1201  cd "/home/inderjeet/all_about_c++/oops/" && g++ friend_function.cpp -o friend_function && "/home/inderjeet/all_about_c++/oops/"friend_function
+ 1202  cd "/home/inderjeet/all_about_c++/oops/" && g++ hybrid_inhertance.cpp -o hybrid_inhertance && "/home/inderjeet/all_about_c++/oops/"hybrid_inhertance
+ 1203  node "/home/inderjeet/web_development/java_script/54/new.js"
+ 1204  mkdir 71
+ 1205  cd 71
+ 1206  code index.html
+ 1207  code script.js
+ 1208  git add .
+ 1209  git commit -m"js"
+ 1210  git push
+ 1211  clear
+ 1212  git push
+ 1213  mkdi
+ 1214  clear
+ 1215  mkdir 74
+ 1216  cd 74
+ 1217  code index.html
+ 1218  code script.js
+ 1219  git add .
+ 1220  git commit -m"events"
+ 1221  git push
+ 1222  clear
+ 1223  sudo apt upgrade wifi
+ 1224  wifi
+ 1225  sudo apt upgrade wifi
+ 1226  sudo apt install --reinstall linux-firmware
+ 1227  sudo apt update
+ 1228  sudo apt upgrade
+ 1229  code add.cpp
+ 1230  cd "/home/inderjeet/all_about_c++/" && g++ add.cpp -o add && "/home/inderjeet/all_about_c++/"add
+ 1231  cd "/home/inderjeet/all_about_c++/pattern/" && g++ pattern9.cpp -o pattern9 && "/home/inderjeet/all_about_c++/pattern/"pattern9
+ 1232  cd "/home/inderjeet/all_about_c++/pattern/" && g++ pattern7.cpp -o pattern7 && "/home/inderjeet/all_about_c++/pattern/"pattern7
+ 1233  cd "/home/inderjeet/all_about_c++/pattern/" && g++ patter6.cpp -o patter6 && "/home/inderjeet/all_about_c++/pattern/"patter6
+ 1234  cd "/home/inderjeet/all_about_c++/pattern/" && g++ pattern5.cpp -o pattern5 && "/home/inderjeet/all_about_c++/pattern/"pattern5
+ 1235  cd "/home/inderjeet/all_about_c++/" && g++ add.cpp -o add && "/home/inderjeet/all_about_c++/"add
+ 1236  sudo apt update
+ 1237  sudo apt upgrade
+ 1238  restart
+ 1239  rstart
+ 1240  sudo apt remove kde
+ 1241  kde
+ 1242  git init
+ 1243  git remote add origin <[200~https://github.com/inderjeetsingh1472/localrepo.git~>
+ 1244  git remote add origin https://github.com/inderjeetsingh1472/localrepo.git
+ 1245  git branch
+ 1246  git branch -M practice
+ 1247  git branch status
+ 1248  git branch
+ 1249  git push origin practice
+ 1250  git add .
+ 1251  git commit -m"practice html"
+ 1252  git push origin main
+ 1253  git branch -p practice
+ 1254  git branch - M practice
+ 1255  git branch -M practice
+ 1256  git branch status
+ 1257  git push origin practice
+ 1258  cs ..
+ 1259  cd ../
+ 1260  ls
+ 1261  cd xss
+ 1262  cd css
+ 1263  mkdir netflix_rough
+ 1264  cd netflix_rough
+ 1265  code index.html
+ 1266  wget https://download.devin.fm/downloads/install_devin.sh
+ 1267  chmod +x install_devin.sh
+ 1268  sudo ./install_devin.sh
+ 1269  sudo apt install devin
+ 1270  node "/home/inderjeet/java_script/script.js"
+ 1271  open chrome
+ 1272  cd atom
+ 1273  code index2.html
+ 1274  code index3.html
+ 1275  code index4.html
+ 1276  code index5.html
+ 1277  node "/home/inderjeet/java_script/faulty_calculator/script.js"
+ 1278  mkdir atom
+ 1279  cd atom
+ 1280  code index.html
+ 1281  ls
+ 1282  cd java_script
+ 1283  mkdir faulty_calculator
+ 1284  cd faulty_calculator
+ 1285  code index.html
+ 1286  code script.js
+ 1287  ls
+ 1288  cd java _script
+ 1289  cd java_script
+ 1290  clear
+ 1291  ls
+ 1292  cd .
+ 1293  cd ..
+ 1294  ls
+ 1295  cd atom
+ 1296  clear
+ 1297  ls
+ 1298  code index3.html
+ 1299  code atom.html
+ 1300  node "/home/inderjeet/java_script/faulty_calculator/script.js"
+ 1301  cd java_script
+ 1302  mkdir string
+ 1303  cd string
+ 1304  code index.html
+ 1305  code script.js
+ 1306  node "/home/inderjeet/java_script/string/script.js"
+ 1307  curl -fsSL https://ollama.com/install.sh | sh
+ 1308  sudo snao install curl
+ 1309  sudo snap install curl
+ 1310  curl -fsSL https://ollama.com/install.sh | sh
+ 1311  sudo apt install curl
+ 1312  curl -fsSL https://ollama.com/install.sh | sh
+ 1313  ollama
+ 1314  start ollama
+ 1315  curl -fsSL https://ollama.com/install.sh | sh
+ 1316  ollama
+ 1317  curl -fsSL https://ollama.com/install.sh | sh
+ 1318  sudo useradd -r -s /bin/false -m -d /usr/share/ollama ollama
+ 1319  sudo systemctl daemon-reload
+ 1320  sudo systemctl enable ollama
+ 1321  ollama
+ 1322  [Unit]
+ 1323  Description=Ollama Service
+ 1324  After=network-online.target
+ 1325  [Service]
+ 1326  ExecStart=/usr/bin/ollama serve
+ 1327  User=ollama
+ 1328  Group=ollama
+ 1329  Restart=always
+ 1330  RestartSec=3
+ 1331  [Install]
+ 1332  WantedBy=default.target
+ 1333  sudo systemctl start ollama
+ 1334  sudo curl -L https://ollama.com/download/ollama-linux-amd64 -o /usr/bin/ollama
+ 1335  sudo chmod +x /usr/bin/ollama
+ 1336  journalctl -u ollama
+ 1337  ollama
+ 1338  open ollama
+ 1339  clear
+ 1340  ollama run llama2
+ 1341  ollama run gemma
+ 1342  gemma
+ 1343  ollama run gemma
+ 1344  cd atom
+ 1345  mkdir gemma
+ 1346  cd gemma
+ 1347  code index.html
+ 1348  ollama run gemma
+ 1349  exit
+ 1350  exit terminal
+ 1351  ollama run gemma
+ 1352  exit
+ 1353  ollama run gemma
+ 1354  exit
+ 1355  exit code
+ 1356  cd atom
+ 1357  ls
+ 1358  cd gemma
+ 1359  code indexatom.html
+ 1360  node "/home/inderjeet/java_script/bussiness_name/script.js"
+ 1361  ls
+ 1362  cd java_script
+ 1363  ls
+ 1364  mkdir bussiness_name
+ 1365  cd bussiness_name
+ 1366  code index.html
+ 1367  !
+ 1368  ollama run gemma
+ 1369  ls
+ 1370  cd java_script
+ 1371  cd
+ 1372  cd java script
+ 1373  cd java_script
+ 1374  ls
+ 1375  cd string
+ 1376  ls
+ 1377  code index.html
+ 1378  code script.js
+ 1379  ollama run gemma
+ 1380  clear
+ 1381  exit chrome
+ 1382  ollama run gemma
+ 1383  ls
+ 1384  cd java_script
+ 1385  clear
+ 1386  mkdir dom
+ 1387  cd dom
+ 1388  document.html
+ 1389  code document.html
+ 1390  clear
+ 1391  node "/home/inderjeet/java_script/oop/script.js"
+ 1392  cd java_script
+ 1393  cd oop
+ 1394  cd ..
+ 1395  ls
+ 1396  mkdir advance_js
+ 1397  cd advance_js
+ 1398  code index.html
+ 1399  code script.js
+ 1400  node "/home/inderjeet/java_script/advance_js/script.js"
+ 1401  i
+ 1402  j
+ 1403  k
+ 1404  node "/home/inderjeet/java_script/advance_js/script.js"
+ 1405  cd spotify
+ 1406  mkdir spotify
+ 1407  cd spotify
+ 1408  clear
+ 1409  code index.html
+ 1410  code style.css
+ 1411  code script.js
+ 1412  code logo.svg
+ 1413  ls
+ 1414  cd atom
+ 1415  ls
+ 1416  atom.html
+ 1417  code atom.html
+ 1418  code index3.html
+ 1419  indexatom.html
+ 1420  code indexatom.html
+ 1421  cd
+ 1422  ls
+ 1423  cd web_development
+ 1424  ls
+ 1425  cd java_script
+ 1426  ls
+ 1427  cd spotify
+ 1428  ls
+ 1429  code index.html
+ 1430  ollama run gemma
+ 1431  clear
+ 1432  node "/home/inderjeet/web_development/java_script/practice js/factorial.js"
+ 1433  index.html
+ 1434  code index.html
+ 1435  node "/home/inderjeet/web_development/java_script/practice js/factorial.js"
+ 1436  code document.js
+ 1437  code array.js
+ 1438  factorial.js
+ 1439  code factorial.js
+ 1440  open code
+ 1441  code
+ 1442  chrome
+ 1443  google
+ 1444  browser
+ 1445  ls-a
+ 1446  ls -a
+ 1447  git remote add origin https://github.com/inderjeetsingh1472/backand-webdev.git
+ 1448  git remote remove origin
+ 1449  git remote add origin https://github.com/inderjeetsingh1472/backand-webdev.git
+ 1450  git branch
+ 1451  git remote -v
+ 1452  git push
+ 1453  clear
+ 1454  node --version
+ 1455  update node
+ 1456  clear
+ 1457  mkdir nodejs
+ 1458  cd nodejs
+ 1459  mkdir 1
+ 1460  cd 1
+ 1461  code server.js
+ 1462  sudo apt upgrade nodejs
+ 1463  [200~sudo apt update
+ 1464  sudo apt update
+ 1465  clear
+ 1466  sudo apt upgrade nodejs
+ 1467  node -v
+ 1468  clear
+ 1469  npm install -g npm@latest
+ 1470  npm-v
+ 1471  npm -v
+ 1472  sudo apt update npm
+ 1473  sudo apt upgrade npm
+ 1474  sudo apt upgrade node
+ 1475  nvm install node --reinstall-packages-from=node
+ 1476  clear
+ 1477  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ 1478  nvm install node
+ 1479  command -v nvm
+ 1480  export NVM_DIR="$HOME/.nvm"
+ 1481  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+ 1482  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ 1483  clear
+ 1484  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+ 1485  nvm install node
+ 1486  node -v
+ 1487  clear
+ 1488  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+ 1489  sudo apt-get install -y nodejs
+ 1490  node -v
+ 1491  node "/home/inderjeet/Backand-webdev/nodejs/1/server.js"
+ 1492  node ./server.js
+ 1493  clear
+ 1494  npm --version
+ 1495  node server.js
+ 1496  node .\server.js
+ 1497  .\server.js
+ 1498  clear
+ 1499  which node
+ 1500  ls -l server.js
+ 1501  cd nodejs
+ 1502  node .\server.js
+ 1503  clear
+ 1504  ls -l server.js
+ 1505  ls
+ 1506  cd 1
+ 1507  ls -l server.js
+ 1508  node .\server.js
+ 1509  chmod +x server.js
+ 1510  clear
+ 1511  node ./server.js
+ 1512  node ./server.js 
+ 1513  npm init
+ 1514  npm install slugify
+ 1515  node "/home/inderjeet/Backand-webdev/nodejs/1/node_modules/slugify/myserver.js"
+ 1516  cd slugify
+ 1517  cd ..
+ 1518  ls
+ 1519  ls -a
+ 1520  cd node js
+ 1521  cd nodejs
+ 1522  ls
+ 1523  ls -a
+ 1524  node "/home/inderjeet/Backand-webdev/nodejs/1/node_modules/slugify/myserver.js"
+ 1525  node .\myserver.js
+ 1526  chmod +x myserver.js
+ 1527  node "/home/inderjeet/Backand-webdev/nodejs/1/myserver.js"
+ 1528  chmod +x mynode "/home/inderjeet/Backand-webdev/nodejs/1/myserver.js"server.js
+ 1529  chmod +x myserver.js
+ 1530  node "/home/inderjeet/Backand-webdev/nodejs/1/server.js"
+ 1531  node --version
+ 1532  nvm
+ 1533  nvm -v
+ 1534  clear
+ 1535  node "/home/inderjeet/Backand-webdev/nodejs/1/server.js"
+ 1536  node -v
+ 1537  clear
+ 1538  node -v
+ 1539  node "/home/inderjeet/Backand-webdev/nodejs/1/server.js"
+ 1540  npm install express
+ 1541  cd node js
+ 1542  cd nodejs
+ 1543  mkdir 2
+ 1544  git push
+ 1545  git push origin main
+ 1546  git commit
+ 1547  node "/home/inderjeet/Backand-webdev/nodejs/2/main.js"
+ 1548  clear
+ 1549  npm init -y
+ 1550  npm i express dotenv
+ 1551  npm i jsonwebtoken
+ 1552  git 
+ 1553  clear
+ 1554  git status
+ 1555  git commit
+ 1556  clear
+ 1557  git add .
+ 1558  git commit
+ 1559  git commit -m "basic"
+ 1560  git push origin main
+ 1561  git pull origin main
+ 1562  git push origin main
+ 1563  clear
+ 1564  git fetch origin
+ 1565  git merge origin/main
+ 1566  git merge --allow-unrelated-histories origin/main
+ 1567  git push origin main
+ 1568  ls
+ 1569  cd Backand-webdev
+ 1570  ls
+ 1571  cd nodejs
+ 1572  ls
+ 1573  cd 2
+ 1574  ls
+ 1575  python
+ 1576  python3
+ 1577  .\firstprogram.py
+ 1578  \firstprogram.py
+ 1579  clear
+ 1580  python -u "/home/inderjeet/python/firtprogram.py"
+ 1581  python3
+ 1582  pythion
+ 1583  python
+ 1584  python -u "/home/inderjeet/python/firtprogram.py"
+ 1585  clear
+ 1586  python -u "/home/inderjeet/python/firtprogram.py"
+ 1587  sudo apt install python
+ 1588  sudo apt install python3
+ 1589  clear
+ 1590  python --version
+ 1591  python3 --version
+ 1592  python -u "/home/inderjeet/python/firtprogram.py"
+ 1593  clear
+ 1594  python -u "/home/inderjeet/python/firtprogram.py"
+ 1595  python3
+ 1596  cd
+ 1597  mkdir py
+ 1598  cd py
+ 1599  code index.py
+ 1600  python -u "/home/inderjeet/python/tempCodeRunnerFile.py"
+ 1601  python3 --version
+ 1602  which python3
+ 1603  python -u "/home/inderjeet/python/firtprogram.py"
+ 1604  [200~"python.pythonPath": "/usr/bin/python3"
+ 1605  ~"python.pythonPath": "/usr/bin/python3"
+ 1606  python -u "/home/inderjeet/python/firtprogram.py"
+ 1607  /bin/python3 /home/inderjeet/python/firtprogram.py
+ 1608  /bin/python3 /home/inderjeet/Untitled-1.py
+ 1609  python -u "/tmp/tempCodeRunnerFile.python"
+ 1610  /bin/python3 /home/inderjeet/python/tempCodeRunnerFile.py
+ 1611  python -u "/home/inderjeet/java_script/.vscode/main.py"
+ 1612  /bin/python3 /home/inderjeet/java_script/.vscode/main.py
+ 1613  sudo su root
+ 1614  exit
+ 1615  git add .
+ 1616  git init https://github.com/inderjeetsingh1472/java_script.git
+ 1617  git init main https://github.com/inderjeetsingh1472/java_script.git
+ 1618  clear
+ 1619  git status
+ 1620  .git
+ 1621  clear
+ 1622  git init
+ 1623  clear
+ 1624  git remote add origin https://github.com/inderjeetsingh1472/java_script.git
+ 1625  git remote -v
+ 1626  git branch status
+ 1627  git branch
+ 1628  git branch -M main
+ 1629  git branch
+ 1630  git branch status
+ 1631  git add .
+ 1632  clear
+ 1633  git
+ 1634  git add .
+ 1635  git commit
+ 1636  clear
+ 1637  git status
+ 1638  git add
+ 1639  git add .
+ 1640  git init
+ 1641  clear
+ 1642  git add .
+ 1643  git pull origin master
+ 1644  git remote remove origin
+ 1645  git remote add origin https://github.com/inderjeetsingh1472/java_script.git
+ 1646  git init
+ 1647  git add .
+ 1648  git remote -v
+ 1649  git push -u origin main
+ 1650  git push -u
+ 1651  git push --set-upstream origin main
+ 1652  clear
+ 1653  git add .
+ 1654  ls
+ 1655  ls -a
+ 1656  git pull origin master
+ 1657  node "/home/inderjeet/java_script/advance_js/script.js"
+ 1658  git add .
+ 1659  git push origin main
+ 1660  git add .
+ 1661  git add advance_js
+ 1662  git commit -m "promise_callback"
+ 1663  git push
+ 1664  git add bussiname_name
+ 1665  git add bussiness_name
+ 1666  git commit -m"bussiness name generator"
+ 1667  git push
+ 1668  git add dom
+ 1669  git commit -m "this is about dom"
+ 1670  git push
+ 1671  git add faulty_calculator
+ 1672  git commit -m "this is faulty calculator"
+ 1673  git push
+ 1674  git add .
+ 1675  git remote remove origin
+ 1676  echo "# javascript" >> README.md
+ 1677  git init
+ 1678  git add README.md
+ 1679  git commit -m "first commit"
+ 1680  git branch -M main
+ 1681  git remote add origin https://github.com/inderjeetsingh1472/javascript.git
+ 1682  git push -u origin main
+ 1683  clear
+ 1684  git add .
+ 1685  git add script.js
+ 1686  git commit
+ 1687  git commit -m"js"
+ 1688  got push
+ 1689  git push
+ 1690  clear
+ 1691  git push origin main
+ 1692  git push -u origin main
+ 1693  git push origin main script.js
+ 1694  git push
+ 1695  git add loops_functions
+ 1696  git commit -m "loops"
+ 1697  git push
+ 1698  git add oop
+ 1699  git commit -m "oops'
+ 1700  zxzvb
+ 1701  khgj
+ 1702  j;kjk
+ 1703  kk
+ 1704  k
+ 1705  k
+ 1706  k
+ 1707  exit
+ 1708  node "/home/inderjeet/java_script/loops_functions/script.js"
+ 1709  git push
+ 1710  git commit -m"oops"
+ 1711  git push
+ 1712  git add string
+ 1713  git commit -m"string"
+ 1714  git push
+ 1715  git add variables_data
+ 1716  git commit -m "variables"
+ 1717  git push
+ 1718  git add variables
+ 1719  git commit -m "conditional and variables"
+ 1720  clear
+ 1721  git add variables_data
+ 1722  git commit -m "conditional and variables"
+ 1723  git push
+ 1724  clear
+ 1725  node "/home/inderjeet/java_script/advance_js/callback&promises/script.js"
+ 1726  cd "/home/inderjeet/project/" && g++ login_page.c++ -o login_page && "/home/inderjeet/project/"login_page
+ 1727  git add .
+ 1728  echo "# python" >> README.md
+ 1729  git init
+ 1730  git add README.md
+ 1731  git commit -m "first commit"
+ 1732  git branch -M main
+ 1733  git remote add origin https://github.com/inderjeetsingh1472/python.git
+ 1734  git push -u origin main
+ 1735  git add .
+ 1736  git commit -m "python"
+ 1737  git push
+ 1738  cd rough
+ 1739  git add .
+ 1740  git commit -m "js"
+ 1741  git push
+ 1742  git push origin main
+ 1743  git push --set-upstream origin practice
+ 1744  clear
+ 1745  git add .
+ 1746  cd java_script
+ 1747  git add .
+ 1748  git commit -m
+ 1749  git commit -m "js"
+ 1750  git push
+ 1751  cd
+ 1752  node "/home/inderjeet/java_script/variables_data/variable.js"
+ 1753  exit
+ 1754  /bin/python3 /home/inderjeet/python/.cph/inou.py
+ 1755  clear
+ 1756  /bin/python3 /home/inderjeet/python/.cph/inou.py
+ 1757  exit
+ 1758  history > commands.txt
+ 1759  python3
+ 1760  clear
+ 1761  python3 inder_script.py >output.txt
+ 1762  nano my_python_commands.py
+ 1763  python3 my_python_commands.py
+ 1764  nano inder.py
+ 1765  python3 inder.py
+ 1766  python3 | tee my_python_session.txt
+ 1767  python3 inder.py
+ 1768  exit
+ 1769  python3
+ 1770  exit
+ 1771  /bin/python3 /home/inderjeet/python/.cph/inou.py
+ 1772  clear
+ 1773  /bin/python3 /home/inderjeet/python/.cph/inout.py
+ 1774  clear
+ 1775  /bin/python3 /home/inderjeet/python/.cph/inout.py
+ 1776  clear
+ 1777  /bin/python3 /home/inderjeet/python/.cph/inout.py
+ 1778  script python_session.log
+ 1779  clear
+ 1780  echo 'Script started' > python_session.log && python3 >> python_session.log
+ 1781  exit
+ 1782  python3 |& tee python_session.log
+ 1783  clear
+ 1784  mkfifo input_fifo && tee < input_fifo python_session.log &
+ 1785  (echo 'Script started'; cat > input_fifo) | python3
+ 1786  exit
+ 1787  mkfifo input_fifo && tee < input_fifo python_session.log &
+ 1788  python 3
+ 1789  python3
+ 1790  exit
+ 1791  python3
+ 1792  exit
+ 1793  python3
+ 1794  exit
+ 1795  python3
+ 1796  exit
+ 1797  python3
+ 1798  exit
+ 1799  python3
+ 1800  exit
+ 1801  clear
+ 1802  cat inder.log
+ 1803  script -f inder.log
+ 1804  cat inder.log
+ 1805  open inder.log
+ 1806  jfghchjsd
+ 1807  convert inder.log to txt
+ 1808  mv inder.log inder.txt
+ 1809  open inder.txt
+ 1810  clear
+ 1811  ls *.log
+ 1812  script -f data_types.log
+ 1813  cat data_types.log
+ 1814  exit
+ 1815  script -f python_inder.log
+ 1816  cat python_session.log
+ 1817  cat python_inder.log
+ 1818  script -f first.log
+ 1819  clear
+ 1820  exit
+ 1821  mkfifo input_fifo && tee < input_fifo python_session.log &
+ 1822  (echo 'Script started'; cat > input_fifo) | python3
+ 1823  clear
+ 1824  script -f python_session.log
+ 1825  history > commands.txt

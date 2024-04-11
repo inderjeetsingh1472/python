@@ -1,0 +1,11 @@
+Script started on 2024-04-11 12:21:17+05:30 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="112" LINES="15"]
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ python3
+[?2004lPython 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 20+20
+40
+>>> exit()
+[?2004h]0;inderjeet@inderjeetsinghsmackbookpro: ~/python[01;32minderjeet@inderjeetsinghsmackbookpro[00m:[01;34m~/python[00m$ exit
+[?2004lexit
+
+Script done on 2024-04-11 12:21:50+05:30 [COMMAND_EXIT_CODE="0"]
