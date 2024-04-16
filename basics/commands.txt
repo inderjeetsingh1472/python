@@ -130,7 +130,7 @@
   955  clear
   956  git remote add origin
   957  clear
-  958  git remote add origin [200~git@github.com:inderjeetsingh1472/web-.git~
+  958  git remote add origin 200~git@github.com:inderjeetsingh1472/web-.git~
   959  git push origin main
   960  git branch
   961  clear

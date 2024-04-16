@@ -13,4 +13,5 @@
 - Function,modules,classes
 -Advance:lambda x:x+1,map(),filter(),reduce(),enumerate(),zip(),sorted()
 
+ls *.log
 
